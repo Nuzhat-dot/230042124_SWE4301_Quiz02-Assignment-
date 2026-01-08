@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vehicles>
+  <vehicle>
+    <vehicleId>a6696482</vehicleId>
+    <registrationNumber>DHK-1234</registrationNumber>
+    <vehicleType>Motorcycle</vehicleType>
+    <available>true</available>
+  </vehicle>
+  <vehicle>
+    <vehicleId>0b3a251b</vehicleId>
+    <registrationNumber>DHK-5678</registrationNumber>
+    <vehicleType>Car</vehicleType>
+    <available>true</available>
+  </vehicle>
+  <vehicle>
+    <vehicleId>0c071d3c</vehicleId>
+    <registrationNumber>DHK-9012</registrationNumber>
+    <vehicleType>Motorcycle</vehicleType>
+    <available>true</available>
+  </vehicle>
+</vehicles>

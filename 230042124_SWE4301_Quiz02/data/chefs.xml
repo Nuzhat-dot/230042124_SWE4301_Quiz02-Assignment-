@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<chefs>
+  <chef>
+    <chefId>2f028f16</chefId>
+    <name>Hassan</name>
+    <specialization>Mughlai</specialization>
+    <available>true</available>
+  </chef>
+  <chef>
+    <chefId>bf6209d8</chefId>
+    <name>Rahim</name>
+    <specialization>Continental</specialization>
+    <available>true</available>
+  </chef>
+  <chef>
+    <chefId>108cf1c7</chefId>
+    <name>Karim</name>
+    <specialization>Bengali Cuisine</specialization>
+    <available>true</available>
+  </chef>
+</chefs>
